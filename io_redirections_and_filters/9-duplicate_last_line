@@ -1,0 +1,2 @@
+#!/bin/bash
+awk : $>awk ‘{if(NR==LINE_NUMBER) print $0}’iacta 
