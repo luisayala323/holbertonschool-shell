@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 701 $(find . -type d )
+chmod 741 $(find . -type d )
