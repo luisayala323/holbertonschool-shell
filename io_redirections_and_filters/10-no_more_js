@@ -1,2 +1,2 @@
 #!/bin/bashs
-find . "*.js" -delete -exec rm -rf {} \; 
+find . "*.js" -delete -exec rm  
