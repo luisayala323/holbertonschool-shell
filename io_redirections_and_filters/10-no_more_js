@@ -1,2 +1,2 @@
 #!/bin/bashs
-find -R /*/* ".js"
+find . -type f /*/*/.js
