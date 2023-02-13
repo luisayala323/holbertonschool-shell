@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chowhn guillaume vincent
+sudo chgrp guillaume vincent
