@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod UGo+rr 
+chmod 1 find .
