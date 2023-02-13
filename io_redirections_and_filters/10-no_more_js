@@ -1,2 +1,2 @@
 #!/bin/bashs
-find . -type f /*/*/.js
+find . -type f '*.js' -delete
