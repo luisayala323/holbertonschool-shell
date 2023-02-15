@@ -1,2 +1,2 @@
 #!/bin/bash
-$PATH="ls | wc -l"
+$PATH=/bin::::/home:/usr:::::/home/me
