@@ -1,2 +1,2 @@
 #!/bin/bash
-$PATH=find /etc -type d | wc -l
+alias $PATH=ls -al | grep ^d"
