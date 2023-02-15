@@ -1,2 +1,2 @@
 #!/bin/bash
-beautiful="find /etc -type d | wc -l"
+$PATH="find /tmp -type d | wc -l"
