@@ -1,2 +1,2 @@
 #!/bin/bash
-$PATH="find /tmp -type d | wc -l"
+export PATH=$PATH
