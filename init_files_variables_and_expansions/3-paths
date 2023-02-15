@@ -1,2 +1,2 @@
 #!/bin/bash
-alias $PATH="find etc/ -type d | wc -l"
+beautiful="find /etc -type d | wc -l"
