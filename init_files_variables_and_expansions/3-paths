@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH="ls -l | grep '^d'"
+PATH="find /tmp -type d | wc -l"
